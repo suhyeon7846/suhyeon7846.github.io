@@ -8,7 +8,7 @@ sidebar:
     image: /assets/images/profile.jpg
     image_alt: "profile"
     text: "Designer, HEON"
-  - title: "It was Dori YouTube's profile."
+  - title: "It was Dorrie YouTube's profile."
 gallery:
   - url: /assets/images/dori-header.jpg
     image_path: /assets/images/dori-header.jpg
@@ -16,10 +16,9 @@ gallery:
   - url: /assets/images/dori-header-1.jpg
     image_path: /assets/images/dori-header-1.jpg
     alt: "placeholder image 2"
-categories: youtube banner
 ---
 
 우주의 잡음이 들립니다.
 
-{% include gallery caption="배너였던것들" %}
+{% include gallery caption="It was Dorrie YouTube's banner" %}
 
