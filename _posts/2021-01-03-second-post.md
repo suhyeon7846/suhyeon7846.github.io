@@ -10,12 +10,16 @@ gallery:
   - url: /assets/images/dori-header-1.jpg
     image_path: /assets/images/dori-header-1.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/profile.jpg
-    image_path: /assets/images/profile.jpg
-    alt: "placeholder image 3"
 ---
 
 우주의 잡음이 들립니다.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="배너였던것들" %}
 
+---
+gallery:
+  - url: /assets/images/profile.jpg
+    image_path: /assets/images/profile.jpg
+    alt: "placeholder image 3"
+---
+{% include gallery caption="이건 프로필이다" %}
