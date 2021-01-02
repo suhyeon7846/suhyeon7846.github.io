@@ -17,9 +17,9 @@ gallery:
 {% include gallery caption="배너였던것들" %}
 
 ---
-gallery:
+gallery1:
   - url: /assets/images/profile.jpg
     image_path: /assets/images/profile.jpg
     alt: "placeholder image 3"
 ---
-{% include gallery caption="이건 프로필이다" %}
+{% include gallery1 caption="이건 프로필이다" %}
