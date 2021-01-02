@@ -8,7 +8,7 @@ sidebar:
     image: /assets/images/profile.jpg
     image_alt: "profile"
     text: "Designer, HEON"
-  - title: "It was **Dori YouTube's** profile."
+  - title: "It was Dori YouTube's profile."
 gallery:
   - url: /assets/images/dori-header.jpg
     image_path: /assets/images/dori-header.jpg
