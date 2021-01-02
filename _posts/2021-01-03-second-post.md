@@ -3,6 +3,12 @@ title: "도리 유튜브 배너"
 excerpt: "도리 유튜브 배너였다."
 header:
   teaser: /assets/images/dori-header.jpg
+sidebar:
+  - title: "profile"
+    image: /assets/images/profile.jpg
+    image_alt: "profile"
+    text: "Designer, HEON"
+  - title: "It was **Dori YouTube's** profile."
 gallery:
   - url: /assets/images/dori-header.jpg
     image_path: /assets/images/dori-header.jpg
