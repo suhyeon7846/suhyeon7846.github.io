@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/dori-header-1.jpg
     image_path: /assets/images/dori-header-1.jpg
     alt: "placeholder image 2"
+categories: youtube banner
 ---
 
 우주의 잡음이 들립니다.
