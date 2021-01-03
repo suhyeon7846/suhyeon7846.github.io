@@ -2,8 +2,8 @@
 main:
   - title: "Maybe Update"
     url: https://suhyeon7846.github.io
-  - title: "Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Category"
+    url: "/category/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
