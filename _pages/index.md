@@ -24,7 +24,7 @@ feature_row:
     alt: "100% free"
     title: "카테고리"
     excerpt: "당신은 카테고리별로 확일할 수 있다."
-    url: "category"
+    url: "/category/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
