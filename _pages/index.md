@@ -22,9 +22,9 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    title: "카테고리"
+    excerpt: "당신은 카테고리별로 확일할 수 있다."
+    url: "/category/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
