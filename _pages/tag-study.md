@@ -1,8 +1,5 @@
 ---
 title: study
-layout: tag
+layout: tags
 permalink: /tags/study/
-taxonomy: 
-  - study 
-  - ES6
 ---
