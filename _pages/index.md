@@ -8,8 +8,8 @@ header:
 feature_row:
   - image_path: /assets/images/home-1.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    title: "Study"
+    excerpt: "공사현장."
     url: "/tags/study/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
