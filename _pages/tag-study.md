@@ -1,5 +1,5 @@
 ---
 title: study
 layout: tags
-permalink: /tags/study/
+permalink: /tags/
 ---
