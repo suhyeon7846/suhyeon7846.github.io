@@ -10,7 +10,7 @@ feature_row:
     alt: "customizable"
     title: "Study"
     excerpt: "공사현장."
-    url: "/tags/study/"
+    url: "/tags/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
