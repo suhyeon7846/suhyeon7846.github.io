@@ -4,7 +4,7 @@ main:
   - title: "Category"
     url: https://suhyeon7846.github.io/category/
   - title: "Study"
-    url: /tags/
+    url: https://suhyeon7846.github.io/tags/
 ---
 title: study
 layout: tags
