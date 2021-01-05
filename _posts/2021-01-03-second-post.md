@@ -2,7 +2,7 @@
 title: "도리 유튜브 배너"
 permalink: /dori/
 excerpt: "도리 유튜브 배너였다."
-categories: post drawing
+category: drawing
 header:
   teaser: /assets/images/dori-header.jpg
 sidebar:
