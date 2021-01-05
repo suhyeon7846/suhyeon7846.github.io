@@ -1,7 +1,7 @@
 ---
 title: ES6
 layout: tag
-permalink: /tags/ES6/
+permalink: /tags/study/es6/
 taxonomy: ES6
 tag: study
 ---
