@@ -2,10 +2,10 @@
 main:
   - title: "My Git"
     url: https://github.com/suhyeon7846
+  - title: "Study"
+    url: https://suhyeon7846.github.io/tags/
   - title: "Category"
-    url: https://suhyeon7846.github.io/category/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: https://suhyeon7846.github.io/categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
