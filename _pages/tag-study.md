@@ -2,5 +2,7 @@
 title: study
 layout: tag
 permalink: /tags/study/
-taxonomy: study
+taxonomy: 
+  - study 
+  - ES6
 ---
