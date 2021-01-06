@@ -25,7 +25,7 @@ console.log(setB.has('b')); // false
 setB.clear();
 console.log(setB.size); // 0
 ```
-** Set 순회
+## Set 순회
 ```js
 set.forEach(function(v,k,s){
     console.log(`key:${k},value:${v},collection:${s}`);
