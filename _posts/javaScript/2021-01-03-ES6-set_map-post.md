@@ -2,6 +2,8 @@
 title: "ES6 - Set, Map"
 date: 2021-01-02
 tags: JavaScript
+toc : true
+toc_sticky: true
 ---
 ## Set
 
